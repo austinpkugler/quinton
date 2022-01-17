@@ -1,0 +1,191 @@
+[
+    {
+        "id": 0,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "What is the term for a monumental gateway that led into an Egyptian temple?",
+        "answer": "Pylon"
+    },
+    {
+        "id": 1,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "In which section of the cathedral do members of the congregation usually sit?",
+        "answer": "Nave"
+    },
+    {
+        "id": 2,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "What is the name of all protruding windows regardless of height",
+        "answer": "Bay window"
+    },
+    {
+        "id": 3,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "What is the name of the railed rooftop platform often found on houses on the coastal areas of north-eastern United States?",
+        "answer": "Widow's walk"
+    },
+    {
+        "id": 4,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which term best describes a building built as a burial chamber?",
+        "answer": "Mausoleum"
+    },
+    {
+        "id": 5,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "",
+        "answer": ""
+    },
+    {
+        "id": 6,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which American architect has been called the \"father of skyscrapers\" and \"father of modernism\"?",
+        "answer": "Louis Henry Sullivan"
+    },
+    {
+        "id": 7,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which architectural term describes the interior curve of an arch?",
+        "answer": "Intrados"
+    },
+    {
+        "id": 8,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which city is home to the tallest building in the world?",
+        "answer": "Dubai"
+    },
+    {
+        "id": 9,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "What is the architectural term for a large open space inside a building, usually topped by a glass roof to provide light?",
+        "answer": "Atrium"
+    },
+    {
+        "id": 10,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "The 19th century engineer John Roebling who was famous for his suspension bridge designs is particularly associated with the design of which iconic American construction?",
+        "answer": "Brooklyn bridge"
+    },
+    {
+        "id": 11,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Jorn Utzon of Denmark designed what landmark?",
+        "answer": "Sydney Opera House"
+    },
+    {
+        "id": 12,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "",
+        "answer": ""
+    },
+    {
+        "id": 13,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which architect designed New York's Twin Towers?",
+        "answer": "Minoru Yamasaki"
+    },
+    {
+        "id": 14,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which architect designed the White House?",
+        "answer": "James Hoban"
+    },
+    {
+        "id": 15,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "",
+        "answer": ""
+    },
+    {
+        "id": 16,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "What is the most widely used building material in the world?",
+        "answer": "Concrete"
+    },
+    {
+        "id": 17,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "Which structure held the title of the world's tallest for 3,800 years?",
+        "answer": "Great Pyramid of Giza"
+    },
+    {
+        "id": 18,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "At what angle does the Leaning Tower of Pisa lean, 4, 9, or 13 degrees?",
+        "answer": "Four degrees"
+    },
+    {
+        "id": 19,
+        "category": "Arts & Literature",
+        "subcategory": "Architecture",
+        "question": "What renowned palace complex sits to the north of Tiananmen Square in Beijing?",
+        "answer": "The Forbidden City"
+    },
+    {
+        "id": 20,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "Who wrote the novel Moby Dick?",
+        "answer": "Herman Melville"
+    },
+    {
+        "id": 21,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "What position does Harry Potter play in Quidditch?",
+        "answer": "Seeker"
+    },
+    {
+        "id": 22,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, Oliver Twist?",
+        "answer": "Artful Dodger"
+    },
+    {
+        "id": 23,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "What was the name of the Mysterious Island, in Jules Verne's The Mysterious Island?",
+        "answer": "Lincoln Island"
+    },
+    {
+        "id": 24,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "By what name was the author Eric Blair better known?",
+        "answer": "George Orwell"
+    },
+    {
+        "id": 25,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "What was the pen name of novelist, Mary Ann Evans?",
+        "answer": "George Eliot"
+    },
+    {
+        "id": 26,
+        "category": "Arts & Literature",
+        "subcategory": "Books",
+        "question": "",
+        "answer": ""
+    }
+]
